@@ -1,4 +1,4 @@
-##Olá, me chamo Henrique Dantas!!<br>
+
 Curso Análise e Desenvolvimento de Sistemas. Estudando HTML, CSS e JavaScript. Apaixonado por tecnologia. Pretendo me tornar um desenvolvedor Front-end.
  
 <div align="center">
